@@ -1,0 +1,31 @@
+CATALOG {
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-image: url("nature.jpg");
+    width: 100%;
+}
+CD {
+    align-content: center;
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 500px;
+    border: 5px solid white;
+    width: 300px;
+    background-color: transparent;
+}
+TITLE {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+ARTIST {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+COUNTRY, PRICE, YEAR, COMPANY {
+    display: block;
+    color:black;
+    margin-left: 20pt;
+    font-size: 20px;
+}
